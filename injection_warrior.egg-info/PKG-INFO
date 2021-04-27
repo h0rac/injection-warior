@@ -1,0 +1,13 @@
+Metadata-Version: 1.1
+Name: injection-warrior
+Version: 1.0.0
+Summary: Injection framework
+Home-page: UNKNOWN
+Author: Grzegorz Wypych (h0rac)
+Author-email: UNKNOWN
+License: BSD 3-clause
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python :: 3

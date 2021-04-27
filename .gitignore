@@ -1,0 +1,3 @@
+*.json
+!spec/*.json
+injection_warrior/__pycache__
