@@ -101,7 +101,7 @@ class Postman():
                     json_file = self.filename+".json"
                     json_file = json_file.replace(" ", "_").replace("/", "_")
                     data = self.__parse_params(value)
-                    data |= {'payloads':[]}
+                    data.update({'payloads':[]})
                     if not os.path.isfile(self.filename): 
                         self.f = open(json_file, 'w')
                         json_format = json.dumps(data, indent=4)
